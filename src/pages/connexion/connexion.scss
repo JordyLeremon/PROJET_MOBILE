@@ -1,0 +1,62 @@
+page-connexion {
+
+    .scroll .scroll-content{
+        overflow: hidden;
+    }
+    .bg-images{
+        background-image: url("../assets/imgs/bg-connexion.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .logo{
+        display: block;
+        margin: auto;
+        width: 50%;
+        margin-top: 2vh;
+    }
+
+    .item{
+        background-color: rgba(255, 255, 255, 0.0)
+    }
+
+    .list{
+        width: 50%;
+        position: absolute;
+        right: 100px;
+        margin: auto;
+    }
+
+    .text{
+        text-align: center;
+        margin-top: 30vh;
+
+}
+
+.btn-login{
+    width: 50%;
+}
+.btn-signup{
+    width: 74%;
+    margin-top: 6vh;
+
+}
+
+.btn-fb{
+    position: absolute;
+    left: 40px;
+    margin-top: 1.2vh;
+    width: 30%;
+    height: auto;
+
+}
+.btn-tw{
+    position: absolute;
+    right: 40px;
+    margin-top: 1.2vh;
+    width: 30%;
+    height: auto;
+}
+
+}
